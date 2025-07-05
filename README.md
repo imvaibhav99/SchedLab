@@ -4,7 +4,7 @@ A modern implementation of CPU scheduling algorithms featuring beautiful visuali
 
 ## ✨ Features
 
-- **Multiple Algorithms**: FCFS, Round Robin, SPN, SRT, HRRN, Feedback, Aging
+- **7 Complete Algorithms**: FCFS, Round Robin, SPN, SRT, HRRN, Feedback, Aging
 - **Visual Output**: Color-coded timelines, Gantt charts, progress bars
 - **Performance Metrics**: CPU utilization, waiting time, turnaround time, throughput
 - **Modern C++**: Object-oriented design with smart pointers and exception handling

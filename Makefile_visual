@@ -8,6 +8,11 @@ TARGET = lab4_visual
 SOURCES = $(SRCDIR)/Scheduler.cpp \
           $(SRCDIR)/FCFSScheduler.cpp \
           $(SRCDIR)/RoundRobinScheduler.cpp \
+          $(SRCDIR)/SPNScheduler.cpp \
+          $(SRCDIR)/SRTScheduler.cpp \
+          $(SRCDIR)/HRRNScheduler.cpp \
+          $(SRCDIR)/FeedbackScheduler.cpp \
+          $(SRCDIR)/AgingScheduler.cpp \
           $(SRCDIR)/SchedulerFactory.cpp \
           $(SRCDIR)/Visualizer.cpp \
           $(SRCDIR)/main_visual.cpp
